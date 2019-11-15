@@ -4,6 +4,7 @@
 #include "Palidrome.h"
 #include "DrawingRectangle.h"
 #include "FillTable.h"
+#include "SumAndNumberOfOddNumbers.h"
 
 
 int main() {
@@ -23,6 +24,9 @@ int main() {
     std::cout << std::endl;
     FillTable fillTable;
     fillTable.instructions();
+    std::cout << std::endl;
+    SumAndNumberOfOddNumbers sumAndNumberOfOddNumbers;
+    sumAndNumberOfOddNumbers.fillTable();
 
 
     _getch();
