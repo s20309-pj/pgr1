@@ -18,11 +18,31 @@ cstdlib
 ctime
 -
 
+C:/Users/joann/CLionProjects/zjazd3/MinArrayElement.h
+iostream
+-
+conio.h
+-
+cstdlib
+-
+ctime
+-
+
 C:/Users/joann/CLionProjects/zjazd3/Palidrome.h
 
 C:/Users/joann/CLionProjects/zjazd3/PalidromeNumber.h
 
 C:/Users/joann/CLionProjects/zjazd3/PalidromeVersionTwo.h
+
+C:/Users/joann/CLionProjects/zjazd3/SumAndNumberOfOddNumbers.h
+iostream
+-
+conio.h
+-
+cstdlib
+-
+ctime
+-
 
 C:/Users/joann/CLionProjects/zjazd3/main.cpp
 iostream
@@ -37,4 +57,8 @@ DrawingRectangle.h
 C:/Users/joann/CLionProjects/zjazd3/DrawingRectangle.h
 FillTable.h
 C:/Users/joann/CLionProjects/zjazd3/FillTable.h
+SumAndNumberOfOddNumbers.h
+C:/Users/joann/CLionProjects/zjazd3/SumAndNumberOfOddNumbers.h
+MinArrayElement.h
+C:/Users/joann/CLionProjects/zjazd3/MinArrayElement.h
 

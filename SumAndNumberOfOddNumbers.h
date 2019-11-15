@@ -12,7 +12,7 @@ class SumAndNumberOfOddNumbers {
     int a;
     int b;
     int sizeOfArray;
-    int chosenElement;
+
 
 public:
     void fillTable(){

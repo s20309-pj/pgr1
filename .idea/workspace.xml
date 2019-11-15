@@ -12,13 +12,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df1506f9-4818-49ff-bb02-2a6a1f061067" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SumAndNumberOfOddNumbers.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SumAndNumberOfOddNumbers.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MinArrayElement.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MinArrayElement.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Progress/1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Progress/2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Progress/count.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SumAndNumberOfOddNumbers.h" beforeDir="false" afterPath="$PROJECT_DIR$/SumAndNumberOfOddNumbers.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/zjazd3.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/zjazd3.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/zjazd3.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/zjazd3.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/zjazd3.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/zjazd3.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/zjazd3.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/zjazd3.dir/main.cpp.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/zjazd3.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/zjazd3.dir/objects.a" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/zjazd3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/zjazd3.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
@@ -48,8 +49,14 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="s20309-pj &lt;s20309@pjwstk.edu.pl&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
   <component name="ProjectId" id="1TbDtKXxDbOyHB2hsLhcMGcFG0w" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
@@ -90,8 +97,16 @@
       <workItem from="1573729102030" duration="1745000" />
       <workItem from="1573731180334" duration="3779000" />
       <workItem from="1573851803777" duration="317000" />
-      <workItem from="1573852185355" duration="3387000" />
+      <workItem from="1573852185355" duration="5138000" />
     </task>
+    <task id="LOCAL-00001" summary="+ counting odd numbers in array">
+      <created>1573855980708</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573855980708</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,5 +124,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="+ counting odd numbers in array" />
+    <option name="LAST_COMMIT_MESSAGE" value="+ counting odd numbers in array" />
   </component>
 </project>

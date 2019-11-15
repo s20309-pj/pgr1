@@ -3,8 +3,10 @@
 
 CMakeFiles/zjazd3.dir/main.cpp.obj: ../DrawingRectangle.h
 CMakeFiles/zjazd3.dir/main.cpp.obj: ../FillTable.h
+CMakeFiles/zjazd3.dir/main.cpp.obj: ../MinArrayElement.h
 CMakeFiles/zjazd3.dir/main.cpp.obj: ../Palidrome.h
 CMakeFiles/zjazd3.dir/main.cpp.obj: ../PalidromeNumber.h
 CMakeFiles/zjazd3.dir/main.cpp.obj: ../PalidromeVersionTwo.h
+CMakeFiles/zjazd3.dir/main.cpp.obj: ../SumAndNumberOfOddNumbers.h
 CMakeFiles/zjazd3.dir/main.cpp.obj: ../main.cpp
 

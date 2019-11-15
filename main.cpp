@@ -5,6 +5,7 @@
 #include "DrawingRectangle.h"
 #include "FillTable.h"
 #include "SumAndNumberOfOddNumbers.h"
+#include "MinArrayElement.h"
 
 
 int main() {
@@ -27,6 +28,9 @@ int main() {
     std::cout << std::endl;
     SumAndNumberOfOddNumbers sumAndNumberOfOddNumbers;
     sumAndNumberOfOddNumbers.fillTable();
+    std::cout << std::endl;
+    MinArrayElement minArrayElement;
+    minArrayElement.fillTable();
 
 
     _getch();
