@@ -15,7 +15,7 @@ class SumAndNumberOfOddNumbers {
 
 
 public:
-    void fillTable(){
+    void fillTable() {
         std::cout << "Enter the size of the array. <=100" << std::endl;
         std::cin >> sizeOfArray;
 
@@ -34,28 +34,28 @@ public:
     }
 
 public:
-     int countOddNumbers(){
-         int tab[sizeOfArray];
-         srand(time(NULL));
+    int countOddNumbers() {
+        int tab[sizeOfArray];
+        srand(time(NULL));
 
-         for (int i = 0; i < sizeOfArray; i++) {
-             tab[i] = (rand() % (b - a + 1) + a);
-             std::cout << "tab[" << i << "]= " << tab[i] << std::endl;
-         }
+        for (int i = 0; i < sizeOfArray; i++) {
+            tab[i] = (rand() % (b - a + 1) + a);
+            std::cout << "tab[" << i << "]= " << tab[i] << std::endl;
+        }
 
 
-             int count =0;
-             int howMany =0;
-             for (int i = 0; i <= sizeOfArray - 1; i++) {
-                 if ( (tab[i] % 2) !=0  ) {
-                     count += tab[i];
-                     howMany++;
-                 }
-             }
-             std::cout<<"Number of odd numbers: " << howMany << std::endl;
-             std::cout<<"Sum of odd numbers:  " << count << std::endl;
-          return count;
-         }
+        int count = 0;
+        int howMany = 0;
+        for (int i = 0; i <= sizeOfArray - 1; i++) {
+            if ((tab[i] % 2) != 0) {
+                count += tab[i];
+                howMany++;
+            }
+        }
+        std::cout << "Number of odd numbers: " << howMany << std::endl;
+        std::cout << "Sum of odd numbers:  " << count << std::endl;
+        return count;
+    }
 
 
 };

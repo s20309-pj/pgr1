@@ -26,5 +26,4 @@ public:
 };
 
 
-
 #endif //ZJAZD3_PALIDROME_H
