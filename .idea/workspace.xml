@@ -11,11 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df1506f9-4818-49ff-bb02-2a6a1f061067" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/zjazd3/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zjazd3/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zjazd3/BubbleSort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/zjazd3/BubbleSort.cpp" afterDir="false" />
-    </list>
+    <list default="true" id="df1506f9-4818-49ff-bb02-2a6a1f061067" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
