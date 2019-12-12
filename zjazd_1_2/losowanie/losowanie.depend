@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1571498321 source:z:\pgr1lab\losowanie\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

@@ -11,7 +11,133 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df1506f9-4818-49ff-bb02-2a6a1f061067" name="Default Changelist" comment="" />
+    <list default="true" id="df1506f9-4818-49ff-bb02-2a6a1f061067" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/zjazd3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd3/.idea/zjazd3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd3/BubbleSort.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd3/BubbleSort.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd3/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd3/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd3/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd3/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd3/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd3/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd3/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd3/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd3/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd3/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd3/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd3/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd3/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd3/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd3/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd3/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd3/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd3/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd3/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd3/cmake-build-debug/CMakeFiles/zjazd3.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd3/cmake-build-debug/CMakeFiles/zjazd3.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd3/cmake-build-debug/CMakeFiles/zjazd3.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd3/cmake-build-debug/CMakeFiles/zjazd3.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd3/cmake-build-debug/CMakeFiles/zjazd3.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd3/cmake-build-debug/CMakeFiles/zjazd3.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd3/cmake-build-debug/CMakeFiles/zjazd3.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd3/cmake-build-debug/CMakeFiles/zjazd3.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd3/cmake-build-debug/CMakeFiles/zjazd3.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd3/cmake-build-debug/CMakeFiles/zjazd3.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd3/cmake-build-debug/CMakeFiles/zjazd3.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd3/cmake-build-debug/CMakeFiles/zjazd3.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd3/cmake-build-debug/CMakeFiles/zjazd3.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd3/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd3/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd3/cmake-build-debug/zjazd3.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd3/cmake-build-debug/zjazd3.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd3/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/gra/bin/Debug/gra.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/gra/gra.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/gra/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/gra/obj/Debug/main.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/losowanie/bin/Debug/losowanie.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/losowanie/losowanie.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/losowanie/losowanie.depend" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/losowanie/losowanie.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/losowanie/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/losowanie/obj/Debug/main.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/petla1/bin/Debug/petla1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/petla1/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/petla1/obj/Debug/main.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/petla1/petla1.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/petla1/petla1.depend" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/petla1/petla1.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/powtorzenie2/bin/Debug/powtorzenie2.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/powtorzenie2/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/powtorzenie2/obj/Debug/main.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/powtorzenie2/powtorzenie2.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/powtorzenie2/powtorzenie2.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/pseudo/bin/Debug/pseudo.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/pseudo/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/pseudo/obj/Debug/main.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/pseudo/pseudo.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/pseudo/pseudo.depend" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/sumaKwadratow/bin/Debug/sumaKwadratow.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/sumaKwadratow/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/sumaKwadratow/obj/Debug/main.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/sumaKwadratow/sumaKwadratow.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/sumaKwadratow/sumaKwadratow.depend" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/sumaKwadratow/sumaKwadratow.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/zad1/Makefile.win" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/zad1/Zad1.dev" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/zad1/Zad1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/zad1/Zad1.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/zad1/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/zad1/main.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/zad2/Makefile.win" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/zad2/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/zad2/main.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/zad2/zad2.dev" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/zad2/zad2.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/zad2/zad2.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/zad4/Makefile.win" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/zad4/Zad4CelcNaFar.dev" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/zad4/Zad4CelcNaFar.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/zad4/Zad4CelcNaFar.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/zad4/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/zad4/main.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/zad7/Makefile.win" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/zad7/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/zad7/main.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/zad7/zadanie7SumaCalkowitych.dev" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/zad7/zadanie7SumaCalkowitych.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/zad7/zadanie7SumaCalkowitych.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/zadanie11/Makefile.win" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/zadanie11/Zadanie11.dev" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/zadanie11/Zadanie11.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/zadanie11/Zadanie11.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/zadanie11/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd_1_2/zadanie11/main.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DrawingRectangle.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/zjazd3/DrawingRectangle.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DrawingRectangle.h" beforeDir="false" afterPath="$PROJECT_DIR$/zjazd3/DrawingRectangle.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FillTable.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/zjazd3/FillTable.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FillTable.h" beforeDir="false" afterPath="$PROJECT_DIR$/zjazd3/FillTable.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MinArrayElement.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/zjazd3/MinArrayElement.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MinArrayElement.h" beforeDir="false" afterPath="$PROJECT_DIR$/zjazd3/MinArrayElement.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palidrome.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/zjazd3/Palidrome.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palidrome.h" beforeDir="false" afterPath="$PROJECT_DIR$/zjazd3/Palidrome.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PalidromeNumber.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/zjazd3/PalidromeNumber.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PalidromeNumber.h" beforeDir="false" afterPath="$PROJECT_DIR$/zjazd3/PalidromeNumber.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PalidromeVersionTwo.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/zjazd3/PalidromeVersionTwo.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PalidromeVersionTwo.h" beforeDir="false" afterPath="$PROJECT_DIR$/zjazd3/PalidromeVersionTwo.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SumAndNumberOfOddNumbers.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/zjazd3/SumAndNumberOfOddNumbers.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SumAndNumberOfOddNumbers.h" beforeDir="false" afterPath="$PROJECT_DIR$/zjazd3/SumAndNumberOfOddNumbers.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Zad26.h" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Zad26.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,8 +172,11 @@
   </component>
   <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
   <component name="ProjectId" id="1TbDtKXxDbOyHB2hsLhcMGcFG0w" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../untitled2" />
@@ -124,21 +253,11 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="+ counting odd numbers in array" />
     <MESSAGE value="+ minimum element in array &amp; index of it" />
     <option name="LAST_COMMIT_MESSAGE" value="+ minimum element in array &amp; index of it" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/main.cpp</url>
-          <line>12</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
