@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/zjazd3.dir/BubbleSort.cpp.obj"
+  "CMakeFiles/zjazd3.dir/Zad26.cpp.obj"
   "CMakeFiles/zjazd3.dir/main.cpp.obj"
   "libzjazd3.dll.a"
   "zjazd3.exe"

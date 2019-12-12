@@ -122,6 +122,60 @@ zjazd3/fast:
 	$(MAKE) -f CMakeFiles\zjazd3.dir\build.make CMakeFiles/zjazd3.dir/build
 .PHONY : zjazd3/fast
 
+BubbleSort.obj: BubbleSort.cpp.obj
+
+.PHONY : BubbleSort.obj
+
+# target to build an object file
+BubbleSort.cpp.obj:
+	$(MAKE) -f CMakeFiles\zjazd3.dir\build.make CMakeFiles/zjazd3.dir/BubbleSort.cpp.obj
+.PHONY : BubbleSort.cpp.obj
+
+BubbleSort.i: BubbleSort.cpp.i
+
+.PHONY : BubbleSort.i
+
+# target to preprocess a source file
+BubbleSort.cpp.i:
+	$(MAKE) -f CMakeFiles\zjazd3.dir\build.make CMakeFiles/zjazd3.dir/BubbleSort.cpp.i
+.PHONY : BubbleSort.cpp.i
+
+BubbleSort.s: BubbleSort.cpp.s
+
+.PHONY : BubbleSort.s
+
+# target to generate assembly for a file
+BubbleSort.cpp.s:
+	$(MAKE) -f CMakeFiles\zjazd3.dir\build.make CMakeFiles/zjazd3.dir/BubbleSort.cpp.s
+.PHONY : BubbleSort.cpp.s
+
+Zad26.obj: Zad26.cpp.obj
+
+.PHONY : Zad26.obj
+
+# target to build an object file
+Zad26.cpp.obj:
+	$(MAKE) -f CMakeFiles\zjazd3.dir\build.make CMakeFiles/zjazd3.dir/Zad26.cpp.obj
+.PHONY : Zad26.cpp.obj
+
+Zad26.i: Zad26.cpp.i
+
+.PHONY : Zad26.i
+
+# target to preprocess a source file
+Zad26.cpp.i:
+	$(MAKE) -f CMakeFiles\zjazd3.dir\build.make CMakeFiles/zjazd3.dir/Zad26.cpp.i
+.PHONY : Zad26.cpp.i
+
+Zad26.s: Zad26.cpp.s
+
+.PHONY : Zad26.s
+
+# target to generate assembly for a file
+Zad26.cpp.s:
+	$(MAKE) -f CMakeFiles\zjazd3.dir\build.make CMakeFiles/zjazd3.dir/Zad26.cpp.s
+.PHONY : Zad26.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -158,6 +212,12 @@ help:
 	@echo ... zjazd3
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... BubbleSort.obj
+	@echo ... BubbleSort.i
+	@echo ... BubbleSort.s
+	@echo ... Zad26.obj
+	@echo ... Zad26.i
+	@echo ... Zad26.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

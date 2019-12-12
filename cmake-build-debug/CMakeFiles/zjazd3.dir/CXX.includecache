@@ -28,6 +28,8 @@ cstdlib
 ctime
 -
 
+C:/Users/joann/CLionProjects/zjazd3/Objetosc.h
+
 C:/Users/joann/CLionProjects/zjazd3/Palidrome.h
 
 C:/Users/joann/CLionProjects/zjazd3/PalidromeNumber.h
@@ -42,6 +44,24 @@ conio.h
 cstdlib
 -
 ctime
+-
+
+C:/Users/joann/CLionProjects/zjazd3/cmake-build-debug/BubbleSort.h
+iostream
+-
+conio.h
+-
+ctime
+-
+cstdlib
+-
+
+C:/Users/joann/CLionProjects/zjazd3/cmake-build-debug/Zad26.h
+ctime
+-
+cstdlib
+-
+iostream
 -
 
 C:/Users/joann/CLionProjects/zjazd3/main.cpp
@@ -61,4 +81,10 @@ SumAndNumberOfOddNumbers.h
 C:/Users/joann/CLionProjects/zjazd3/SumAndNumberOfOddNumbers.h
 MinArrayElement.h
 C:/Users/joann/CLionProjects/zjazd3/MinArrayElement.h
+Objetosc.h
+C:/Users/joann/CLionProjects/zjazd3/Objetosc.h
+cmake-build-debug/Zad26.h
+C:/Users/joann/CLionProjects/zjazd3/cmake-build-debug/Zad26.h
+cmake-build-debug/BubbleSort.h
+C:/Users/joann/CLionProjects/zjazd3/cmake-build-debug/BubbleSort.h
 

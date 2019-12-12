@@ -80,6 +80,18 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/joann/CLionProjects/zjazd3/cmake-build-debug/BubbleSort.cpp">
+			<Option target="zjazd3"/>
+		</Unit>
+		<Unit filename="C:/Users/joann/CLionProjects/zjazd3/cmake-build-debug/BubbleSort.h">
+			<Option target="zjazd3"/>
+		</Unit>
+		<Unit filename="C:/Users/joann/CLionProjects/zjazd3/cmake-build-debug/Zad26.cpp">
+			<Option target="zjazd3"/>
+		</Unit>
+		<Unit filename="C:/Users/joann/CLionProjects/zjazd3/cmake-build-debug/Zad26.h">
+			<Option target="zjazd3"/>
+		</Unit>
 		<Unit filename="C:/Users/joann/CLionProjects/zjazd3/main.cpp">
 			<Option target="zjazd3"/>
 		</Unit>
