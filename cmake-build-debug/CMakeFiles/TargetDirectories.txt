@@ -1,3 +1,0 @@
-C:/Users/joann/CLionProjects/zjazd3/cmake-build-debug/CMakeFiles/zjazd3.dir
-C:/Users/joann/CLionProjects/zjazd3/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/joann/CLionProjects/zjazd3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -3,10 +3,14 @@
 #define ZJAZD3_BUBBLESORT_H
 
 
+#include <cstdlib>
+#include <time.h>
+#include <iostream>
+
 class BubbleSort {
 
 public:
-    int bubbleSort() {
+    static int bubbleSort() {
         int n = 20;
         srand((int) time(NULL));
         int tab[n];
@@ -30,7 +34,7 @@ public:
         } while (n > 1);
 
         for (int i = 0; i < 20; i++)
-            cout << "Index: " << i << " [" << tab[i] << "]" << endl;
+            std::cout << "Index: " << i << " [" << tab[i] << "]" << std::endl;
     }
 };
 
